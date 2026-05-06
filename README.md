@@ -8,7 +8,7 @@ Desarrollado como práctica de SQL y visualización de datos.
 ## 🛠️ Herramientas utilizadas
 
 - **MySQL Workbench** — modelado y consultas SQL
-- **Power BI** — visualización de resultados
+- **Looker Studio** — visualización de resultados
 
 ---
 
