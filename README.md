@@ -1,5 +1,3 @@
-# ecommerce-ventas-sql
-Análisis de Ventas E-commerce Diseño de base de datos relacional en MySQL, consultas de análisis (JOINs, GROUP BY, subconsultas) y visualización de KPIs en Looker Studio.
 # 📊 Análisis de Ventas E-commerce — SQL + Power BI
 
 Proyecto de análisis de datos sobre una base de ventas de e-commerce simulada.
